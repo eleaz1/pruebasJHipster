@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "innovapps.co",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "pruebasJHipster",
+    "packageName": "innovapps.co",
+    "packageFolder": "innovapps/co",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDkzNGFlYmNhNjdhMGNiOGRmMWFiZDZjMWU1YjdmMzE4MGY5NGRiMWExYzQ0NDg3Y2VlZjZkNWYxY2E5YzY3ODBhM2YzODFjMTZhNTc1NTdlZDQxYWRjODNlYjhhODUxNDAwZGRjMDZmODEyMTdjOGQ3YjM0MTJkZjI4OWU0Zjc=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ]
+  }
+}
